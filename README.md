@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
 <h1 align="center">Hi 👋, I'm Mohamed elamarty</h1>
 <h3 align="center">A passionate software engineer from morocco</h3>
 
