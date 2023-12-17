@@ -38,7 +38,6 @@
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/simofront"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simofront" /></a>
   <a href="https://ko-fi.com/simofront"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="simofront" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simofront&show_icons=true&locale=en&layout=compact" alt="simofront" /></p>
