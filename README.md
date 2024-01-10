@@ -42,5 +42,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Melamarty&show_icons=true&locale=en" alt="simofront" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simofront&" alt="simofront" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Melamarty&" alt="Melamarty" /></p>
 
