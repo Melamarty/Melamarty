@@ -38,9 +38,9 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> </a>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simofront&show_icons=true&locale=en&layout=compact" alt="simofront" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Melamarty&show_icons=true&locale=en&layout=compact" alt="simofront" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simofront&show_icons=true&locale=en" alt="simofront" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Melamarty&show_icons=true&locale=en" alt="simofront" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simofront&" alt="simofront" /></p>
 
