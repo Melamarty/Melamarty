@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed elamarty</h1>
 <h3 align="center">A passionate software engineer from morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simofront&label=Profile%20views&color=0e75b6&style=flat" alt="simofront" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Melamarty&label=Profile%20views&color=0e75b6&style=flat" alt="Melamarty" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simofront" alt="simofront" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Melamarty" alt="Melamarty" /></a> </p>
 
 - 🌱 I’m currently learning **web developpement**
 
