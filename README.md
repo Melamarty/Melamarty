@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **web developpement**
 
-- 💬 Ask me about **mern stack**
+- 💬 Ask me about **mern stack && machine learning**
 
 - 📫 How to reach me **mohamedelamartyelamarty@gmail.com**
 
